@@ -1,0 +1,2 @@
+Put your audio files here before deploying. Then update public/songs.json.
+Example: [{"name":"My Song","file":"My Song.mp3","url":"/music/My%20Song.mp3"}]
